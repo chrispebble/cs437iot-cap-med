@@ -48,8 +48,8 @@ double pixelDuration =
     (double)ring.numPixels(); // How much time (secs) each pixel represents
 
 // Network credentials
-const char *ssid = "Pebble-Aircove";
-const char *password = "8Xuk6ozSnr";
+const char *ssid = "ssid";
+const char *password = "pw";
 
 // Initialize non-volatile storage
 Preferences preferences;
